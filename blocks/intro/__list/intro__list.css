@@ -7,7 +7,9 @@ ul {
 }
 
 .intro__list{
+    color: white;
     list-style-type: none;
+    
 }
 
 
